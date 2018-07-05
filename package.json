@@ -1,0 +1,24 @@
+{
+  "name": "hyper-dynamic-background",
+  "version": "1.0.0",
+  "description": "\"Hyper plugin to dynamicly change window transparency base on focus.'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bqanderson/hyper-dynamic-background.git"
+  },
+  "keywords": [
+    "hyper",
+    "transparent",
+    "opacity"
+  ],
+  "author": "Brian Q Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bqanderson/hyper-dynamic-background/issues"
+  },
+  "homepage": "https://github.com/bqanderson/hyper-dynamic-background#readme"
+}
